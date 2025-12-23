@@ -50,5 +50,5 @@ Here are some of the technologies and tools I work with:
 
 ### 📫 Let's Connect
 
-* [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">](#)
+* [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">]([#](https://www.linkedin.com/in/wisdomfirm/))
     [<img src="https://img.shields.io/badge/WisdomFirm-Official-blue?style=for-the-badge">](https://github.com/WisdomFirm)
