@@ -1,6 +1,16 @@
-### Hi there 👋 I'm Pongsak!
+<div align="center">
 
-I'm a passionate Developer and Tech Enthusiast from Thailand, focusing on bridging the gap between Web Development, SEO, and intelligent Automation.
+  <h1>Hi there 👋 I'm Pongsak!</h1>
+  
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=33C481&background=00000000&center=true&vCenter=true&width=435&lines=Web+Developer+%26+SEO+Specialist;Building+AI+Automated+Workflows;WordPress+%2B+n8n+Integration" alt="Typing SVG" />
+  </a>
+  
+  <br/>
+  
+  <img src="https://komarev.com/ghpvc/?username=pongsakfms-commits&color=2ecc71&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
+
+</div>
 
 ---
 
@@ -15,7 +25,7 @@ I'm a passionate Developer and Tech Enthusiast from Thailand, focusing on bridgi
 
 ### 🛠️ Tech Stack & Tools
 
-Here are some of the technologies and tools I work with:
+<div align="center">
 
 **Web & CMS**
 <br>
@@ -35,20 +45,31 @@ Here are some of the technologies and tools I work with:
 <br>
 <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
 <img src="https://img.shields.io/badge/Google_Search_Console-4285F4?style=for-the-badge&logo=google&logoColor=white">
-<img src="https://img.shields.io/badge/SEO-Technical-success?style=flat-square">
+<img src="https://img.shields.io/badge/SEO-Technical-success?style=for-the-badge">
+
+</div>
 
 ---
 
 ### 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pongsakfms-commits&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Pongsak's GitHub stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pongsakfms-commits&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=pongsakfms-commits&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Pongsak's GitHub stats" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pongsakfms-commits&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="150" />
 </div>
 
 ---
 
 ### 📫 Let's Connect
 
-* [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">]([#](https://www.linkedin.com/in/wisdomfirm/))
-    [<img src="https://img.shields.io/badge/WisdomFirm-Official-blue?style=for-the-badge">](https://github.com/WisdomFirm)
+<div align="center">
+
+  <a href="https://www.linkedin.com/in/wisdomfirm/" target="_blank">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  
+  <a href="https://github.com/WisdomFirm" target="_blank">
+    <img src="https://img.shields.io/badge/WisdomFirm-Official-blue?style=for-the-badge" alt="WisdomFirm">
+  </a>
+
+</div>
