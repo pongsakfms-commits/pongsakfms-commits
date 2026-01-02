@@ -48,15 +48,7 @@
 <img src="https://img.shields.io/badge/SEO-Technical-success?style=for-the-badge">
 
 </div>
-
----
-
-### 📈 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pongsakfms-commits&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Pongsak's GitHub stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pongsakfms-commits&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="150" />
-</div>
+ 
 
 ---
 
